@@ -1,1 +1,1 @@
-# startup-class
+# startup-class at Stanford
